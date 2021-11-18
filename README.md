@@ -1,4 +1,7 @@
-# j0lt DNS amplification (DDoS) attack tool
+# j0lt.c DNS amplification (DDoS) attack tool
+  **Use with extreme caution**
+  > Brutally effective DNS amplification ddos attack tool, 
+  > will cripple a target machine from a single host.
  ------------------------------------------------------------
  > * the-scientist@rootstorm.com
  > * https://www.rootstorm.com
